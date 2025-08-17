@@ -28,4 +28,4 @@ Here are a few preview shots from my portfolio:
 
 ---
 
-📄 [Click here to view the full Portfolio PDF](./portfolio.pdf)
+📄 [Click here to view the full Portfolio PDF](./PORTOFILIO.pdf)
